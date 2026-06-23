@@ -11,6 +11,10 @@ __pycache__/
 *.pyo
 *.pyd
 *.so
+*.csv
+*.html
+*.txt
+
 
 # Configuraciones de VS Code
 .vscode/
